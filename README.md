@@ -1,7 +1,7 @@
 # CALCULATOR APP 
 
 ## How to Start
-- Open [Calculator.exe]("./Calculator.exe.lnk")
+- Open `Calculator.exe`
 
 ## Preview
 
